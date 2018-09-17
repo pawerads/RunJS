@@ -1,0 +1,4 @@
+function shet()
+{
+alert('hello')
+}
